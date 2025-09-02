@@ -1,2 +1,4 @@
 # tech-aman
-this is my first Git repository. Author - Aman yadav
+this is my first Git repository.
+<br>
+Author - Aman yadav
